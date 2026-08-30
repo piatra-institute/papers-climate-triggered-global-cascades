@@ -1,0 +1,27 @@
+slug: climate-triggered-global-cascades
+web_slug: climate-triggered-global-cascades
+title: "Pathways to a Billion-Death Year: Modeling Climate-Triggered Global Cascades"
+header: "Climate-Triggered Global Cascades"
+created: "2026-08"        # inception month (drives YYYY/MM archive path)
+date: "August 2026"          # publication month shown on web
+paper_dir: paper
+has_simulation: false
+claims_target: none           # results.json | claim-ledger | none
+repo: git@github.com:piatra-institute/papers-climate-triggered-global-cascades.git
+github: https://github.com/piatra-institute/papers-climate-triggered-global-cascades
+status: published             # draft | built | published
+abstract: >-
+  No existing model supports a defensible probability that anthropogenic
+  climate change will cause one billion excess deaths within a rolling year.
+  The absence of such an estimate is not evidence that the threshold is
+  impossible. It reflects a missing model class. This paper specifies 1177-G, a
+  stochastic hybrid causal model of climate-triggered failure across crop,
+  food, trade, energy, water, finance, governance, conflict, health, and
+  displacement networks. The outcome is the maximum 365-day sum of excess
+  mortality, with deaths assigned through competing hazards rather than added
+  across sectoral studies. Buffer depletion, recovery time, behavioral
+  response, and state capacity determine whether shocks dissipate or compound.
+  The design combines historical calibration, survival-case validation,
+  rare-event sampling, minimal cut-set analysis, and paired factual and
+  counterfactual climate ensembles. It is a specification for testing a remote
+  threshold, not an estimate that the threshold is reachable.
