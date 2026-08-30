@@ -1,7 +1,9 @@
 ---
-title: "Pathways to a Billion-Death Year: Modeling Climate-Triggered Global Cascades"
-author: "PIATRA Institute"
-date: "August 2026"
+title: |
+  Climate-Triggered Global Cascades:\
+  Pathways to a Billion-Death Year: Modeling Climate-Triggered Global Cascades
+author: PIATRA . INSTITUTE
+date: August 2026
 ---
 
 ## Abstract

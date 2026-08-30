@@ -1,5 +1,33 @@
 # Audit
 
+## 2026-08-30 - House title-page correction
+
+Scope: title-page metadata and the published PDF only; manuscript body and
+evidence were unchanged.
+
+Changes:
+
+- Set the cover title to `Climate-Triggered Global Cascades` and placed
+  `Pathways to a Billion-Death Year: Modeling Climate-Triggered Global
+  Cascades` beneath it as the subtitle.
+- Corrected the institute mark from `PIATRA Institute` to
+  `PIATRA . INSTITUTE`, matching recent PIATRA papers.
+- Rebuilt the PDF and replaced the synchronized website copy.
+
+Verification:
+
+- Rendered the corrected first page at 150 dpi and compared it with the title
+  pages of *Privatized Sovereignty* and *The Reachable Human Phenotype*; title
+  hierarchy, branding, spacing, and alignment now match the house treatment.
+- `pdfinfo`: 14 letter-size pages; `pdffonts`: all fonts embedded, subsetted,
+  and Unicode-mapped.
+- Extracted text from pages 2 onward has the same SHA-256 as the prior PDF,
+  confirming that only the title page changed.
+- `papers check climate-triggered-global-cascades`: PASS, including the
+  published-web gate.
+- The PIATRA website production build compiled, type-checked, and generated all
+  229 static pages.
+
 ## 2026-08-30 - Publication
 
 Scope: public GitHub release and inclusion in the PIATRA papers index and
