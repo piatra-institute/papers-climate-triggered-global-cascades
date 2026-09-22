@@ -1,5 +1,11 @@
 # Audit
 
+## 2026-09-22 — prose revision
+
+Prose revised against the house standards. Headings made descriptive (Introduction, Constraints from existing models, The Late Bronze Age analogy, Model state and time steps, Buffers and recovery, Food, trade, and export restrictions, Government, conflict, and displacement, Mortality accounting, Cascade diagnostics, Calibration and validation, Rare-event sampling, Attribution to anthropogenic forcing, Interpreting results). Abstract rewritten (negate-pivot and "this paper" removed; threshold scale of 12.2% and 3.34 per 10,000 per day added from the body). Aphoristic sentences rewritten as declaratives ("Calling that route constructible...", "The numbers cannot be transferred", "Hence the hybrid form", "the model has learned something useful", "must remain capable of saying no").
+
+Arithmetic re-checked: 1e9/8.2e9 = 12.2%; 3.34 and 6.85 per 10,000 per day; 2 per 10,000 per day over a year at 8.2 billion = 599 million. The Hultgren et al. figure of about 120 kcal per person per day does not follow from 5.5e14 kcal over the 2024 population (that gives about 184); it uses the authors' own population denominator, and the text now attributes the per-capita figure to the authors.
+
 ## 2026-08-30 - House title-page correction
 
 Scope: title-page metadata and the published PDF only; manuscript body and
