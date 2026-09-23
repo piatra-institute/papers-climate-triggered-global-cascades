@@ -12,11 +12,11 @@ No existing model supports a defensible probability that anthropogenic climate c
 
 ## Introduction
 
-A death toll of 1 billion in 365 days can first be stated in demographic terms. The United Nations estimated a world population of 8.2 billion in 2024 (United Nations, 2024). Against that reference population, the threshold is about 12.2%. It is close to the 10% mortality anchor used in one recent framework for global catastrophic risk (Arnscheidt et al., 2025). Crossing it would require a disturbance operating across regions and causes of death at a scale outside the range of modern climate-impact observations.
+A death toll of 1 billion in 365 days can first be stated in demographic terms. The United Nations estimated a world population of 8.2 billion in 2024 [@undesa2024]. Against that reference population, the threshold is about 12.2%. It is close to the 10% mortality anchor used in one recent framework for global catastrophic risk [@arnscheidt2025]. Crossing it would require a disturbance operating across regions and causes of death at a scale outside the range of modern climate-impact observations.
 
-No published climate model assigns a defensible probability to that event. Kemp et al. (2022) argue that catastrophic climate scenarios remain underexplored and call for research on mass mortality, systemic vulnerability, and social fragility. Their paper sets a research agenda and supplies no estimate. Sectoral studies quantify heat exposure, crop response, flooding, disease suitability, economic loss, or conflict-related risks under defined assumptions. Their outcomes have different baselines, horizons, and populations. Adding their upper bounds would double-count people and erase causal dependence.
+No published climate model assigns a defensible probability to that event. @kemp2022 argue that catastrophic climate scenarios remain underexplored and call for research on mass mortality, systemic vulnerability, and social fragility. Their paper sets a research agenda and supplies no estimate. Sectoral studies quantify heat exposure, crop response, flooding, disease suitability, economic loss, or conflict-related risks under defined assumptions. Their outcomes have different baselines, horizons, and populations. Adding their upper bounds would double-count people and erase causal dependence.
 
-The evidence does support a narrower premise. Climate risks can be compound, cascading, and transmitted through connected human systems. The IPCC assesses complex compound and cascading risks with high confidence and describes transmission through food, trade, finance, and ecosystems (Intergovernmental Panel on Climate Change, 2022). Simultaneous crop-loss risk rises with warming. A drought in several exporting regions can alter prices and reserves elsewhere; the response of importing states can then change the shock faced by their neighbors.
+The evidence does support a narrower premise. Climate risks can be compound, cascading, and transmitted through connected human systems. The IPCC assesses complex compound and cascading risks with high confidence and describes transmission through food, trade, finance, and ecosystems [@ipcc2022]. Simultaneous crop-loss risk rises with warming. A drought in several exporting regions can alter prices and reserves elsewhere; the response of importing states can then change the shock faced by their neighbors.
 
 A billion-death year would almost certainly require this kind of amplification. Direct heat, flood, fire, and storm mortality would remain inside the causal chain, but the principal scientifically constructible route runs through failures of access and response in which crop losses interact with trade restrictions or financing constraints, energy and water interruptions impair health systems, conflict blocks relief, malnutrition changes susceptibility to infection, and displacement redistributes exposure while degrading records and care.
 
@@ -26,25 +26,25 @@ That the route can be constructed says nothing about its probability. It defines
 
 ## Constraints from existing models
 
-Agricultural studies provide forcing distributions; mortality functions lie downstream. Gaupp et al. (2020) estimate changing risks of simultaneous failure across major breadbaskets. Kornhuber et al. (2023) find that climate and crop-model ensembles can underestimate synchronized low yields associated with large-scale atmospheric circulation. A model that draws national yield shocks independently would therefore suppress an important tail mechanism.
+Agricultural studies provide forcing distributions; mortality functions lie downstream. @gaupp2020 estimate changing risks of simultaneous failure across major breadbaskets. @kornhuber2023 find that climate and crop-model ensembles can underestimate synchronized low yields associated with large-scale atmospheric circulation. A model that draws national yield shocks independently would therefore suppress an important tail mechanism.
 
-Hultgren et al. (2025) estimate climate effects across 12,658 regions and six staple crops while accounting for observed adaptation, with an aggregate response corresponding to an annual loss of about $5.5\times10^{14}$ kilocalories for each degree of warming, which the authors express as around 120 kilocalories per person per day at the global scale. This production result cannot be converted directly into deaths because food reaches people through stocks, feed use, processing, prices, incomes, public distribution, and household allocation.
+@hultgren2025 estimate climate effects across 12,658 regions and six staple crops while accounting for observed adaptation, with an aggregate response corresponding to an annual loss of about $5.5\times10^{14}$ kilocalories for each degree of warming, which the authors express as around 120 kilocalories per person per day at the global scale. This production result cannot be converted directly into deaths because food reaches people through stocks, feed use, processing, prices, incomes, public distribution, and household allocation.
 
-Model spread remains consequential even at moderate mean warming. Bevacqua et al. (2026) show that some modeled extreme outcomes at $2\,^{\circ}\mathrm{C}$ exceed multimodel-average outcomes at $4\,^{\circ}\mathrm{C}$ for selected metrics, including a breadbasket-drought measure. Their result calls for structural ensembles and plausibility checks, and gives no grounds for treating the most destructive model member as the representative future.
+Model spread remains consequential even at moderate mean warming. @bevacqua2026 show that some modeled extreme outcomes at $2\,^{\circ}\mathrm{C}$ exceed multimodel-average outcomes at $4\,^{\circ}\mathrm{C}$ for selected metrics, including a breadbasket-drought measure. Their result calls for structural ensembles and plausibility checks, and gives no grounds for treating the most destructive model member as the representative future.
 
-Trade models constrain another link. Puma et al. (2015) document evolving concentration and dependency in the international food-trade network. Kuhla, Puma, and Otto (2024) combine a wheat supply network with a market model to reconstruct the 2022 shock following Russia's invasion of Ukraine. Their counterfactuals show how production failures and escalating export restrictions can compound. They also show that favorable harvests and international cooperation reduced the realized price shock. Behavior is an amplifier in some draws and a buffer in others.
+Trade models constrain another link. @puma2015 document evolving concentration and dependency in the international food-trade network. @kuhla2024 combine a wheat supply network with a market model to reconstruct the 2022 shock following Russia's invasion of Ukraine. Their counterfactuals show how production failures and escalating export restrictions can compound. They also show that favorable harvests and international cooperation reduced the realized price shock. Behavior is an amplifier in some draws and a buffer in others.
 
-The most dramatic integrated food-shock model comes from a different hazard. Xia et al. (2022) couple nuclear-war soot scenarios to climate, crop, fishery, livestock, and national food-availability calculations. Under their specified scenarios and behavioral assumptions, estimated deaths exceed 2 billion for one regional-war case and 5 billion for a United States-Russia war. The study demonstrates that a globally coherent food shock can produce billion-scale modeled mortality. Greenhouse warming is slower, spatially different, and governed by different physics, so the mortality estimates do not transfer. The model architecture can still be examined for missing modules, allocation rules, adaptation assumptions, and uncertainty propagation.
+The most dramatic integrated food-shock model comes from a different hazard. @xia2022 couple nuclear-war soot scenarios to climate, crop, fishery, livestock, and national food-availability calculations. Under their specified scenarios and behavioral assumptions, estimated deaths exceed 2 billion for one regional-war case and 5 billion for a United States-Russia war. The study demonstrates that a globally coherent food shock can produce billion-scale modeled mortality. Greenhouse warming is slower, spatially different, and governed by different physics, so the mortality estimates do not transfer. The model architecture can still be examined for missing modules, allocation rules, adaptation assumptions, and uncertainty propagation.
 
-Interdependent-network theory supplies a further component. Buldyrev et al. (2010) show that dependencies between networks can create recursive and abrupt failure absent from isolated-network analysis. Boccaletti et al. (2014) distinguish multiplex and interdependent structures and review their dynamics. These mathematical results establish possibilities under stylized rules. A percolation threshold derived for paired infrastructure networks is not an empirical collapse threshold for countries.
+Interdependent-network theory supplies a further component. @buldyrev2010 show that dependencies between networks can create recursive and abrupt failure absent from isolated-network analysis. @boccaletti2014 distinguish multiplex and interdependent structures and review their dynamics. These mathematical results establish possibilities under stylized rules. A percolation threshold derived for paired infrastructure networks is not an empirical collapse threshold for countries.
 
 The literature thus constrains pieces of a global cascade. It does not close the chain from anthropogenic forcing to overlapping hazards, behavioral responses, institutional failure, and unique deaths within a rolling year.
 
 ## The Late Bronze Age analogy
 
-The collapse of Late Bronze Age palace societies offers a vocabulary of interaction. Cline (2021) describes drought, earthquake, conflict, migration, and the failure of interconnected political economies around the eastern Mediterranean. The historical record does not isolate a single sufficient cause. The episode is therefore a case of multicausal collapse.
+The collapse of Late Bronze Age palace societies offers a vocabulary of interaction. @cline2021 describes drought, earthquake, conflict, migration, and the failure of interconnected political economies around the eastern Mediterranean. The historical record does not isolate a single sufficient cause. The episode is therefore a case of multicausal collapse.
 
-Linkov et al. (2024) formalize parts of the case as interacting trade and sociopolitical networks. In their model, isolated disruption of a single node does not reproduce system collapse, while some paired disruptions generate cascades. The interaction result transfers to modern systems; the estimated parameters do not.
+@linkov2024 formalize parts of the case as interacting trade and sociopolitical networks. In their model, isolated disruption of a single node does not reproduce system collapse, while some paired disruptions generate cascades. The interaction result transfers to modern systems; the estimated parameters do not.
 
 Modern systems differ in scale, speed, state capacity, technology, reserve depth, and destructive potential: container shipping and global finance can reroute supply across great distances while transmitting price shocks within days; vaccines, telecommunications, and international relief add resilience; and grid dependence, just-in-time logistics, cyber systems, and nuclear arsenals add failure modes without Bronze Age counterparts. A modern model must represent these mechanisms directly.
 
@@ -110,7 +110,7 @@ Q_{ic}(t)=A_{ic}(t)\,
 Y_{ic}\!\left[T_i(t),P_i(t),Z_i(t),a_i(t);\theta_c\right],
 $$
 
-where $c$ indexes crops, $T$ and $P$ represent temperature and moisture conditions, $Z$ includes other agronomic shocks, and $a_i$ represents adaptation. The joint distribution must preserve teleconnections and common model error. Kornhuber et al. (2023) make independent national sampling indefensible for the tail.
+where $c$ indexes crops, $T$ and $P$ represent temperature and moisture conditions, $Z$ includes other agronomic shocks, and $a_i$ represents adaptation. The joint distribution must preserve teleconnections and common model error. @kornhuber2023 make independent national sampling indefensible for the tail.
 
 Stocks then obey a material balance:
 
@@ -137,7 +137,7 @@ $$
 \sigma\left(\alpha_0-\alpha_r r_i+\alpha_p p+\alpha_g g_i-\alpha_c c_i\right).
 $$
 
-The form must be estimated from historical episodes and allowed to vary by regime and commodity, because a fixed assumption of open trade or universal export bans would miss the pattern documented by Kuhla, Puma, and Otto (2024): restrictions can protect domestic consumers in one region while transferring scarcity to import-dependent regions, and coordination can reverse that amplification.
+The form must be estimated from historical episodes and allowed to vary by regime and commodity, because a fixed assumption of open trade or universal export bans would miss the pattern documented by @{kuhla2024}: restrictions can protect domestic consumers in one region while transferring scarcity to import-dependent regions, and coordination can reverse that amplification.
 
 Finance enters through import capacity, exchange rates, sovereign borrowing, household income, and payment infrastructure. A food deficit causes mortality only after these access channels and relief responses are represented. At this stage the biophysical crop model becomes a political-economy model.
 
@@ -158,7 +158,7 @@ where $v_i$ contains slowly changing vulnerability and $s_i$ contains current st
 
 Conflict feeds back through casualties, destroyed capital, blocked trade, and coerced movement. Displacement changes exposure. It can move people away from acute physical danger while increasing crowding, water insecurity, and loss of care. Population accounting must conserve people across origin, transit, and destination states, subject to recorded deaths and measurement error.
 
-The IPCC's assessment of transmitted and cascading risks justifies inclusion of these pathways (Intergovernmental Panel on Climate Change, 2022). It does not supply universal coefficients. Those must come from domain-specific evidence, with sensitivity ranges wide enough to reflect contested causal estimates.
+The IPCC's assessment of transmitted and cascading risks justifies inclusion of these pathways [@ipcc2022]. It does not supply universal coefficients. Those must come from domain-specific evidence, with sensitivity ranges wide enough to reflect contested causal estimates.
 
 ## Mortality accounting
 
@@ -171,7 +171,7 @@ h_{ij}^{\mathrm{heat}}(t)+h_{ij}^{\mathrm{trauma}}(t)
 +h_{ij}^{\mathrm{int}}(t).
 $$
 
-$h^0$ is the counterfactual baseline, while the interaction term represents effects that cannot be allocated independently, such as nutritional impairment increasing the fatality risk from infection; the World Health Organization (2023) identifies the heightened vulnerability of undernourished children to disease and death. Counting a malnutrition death and an infection death from separate models would assign the same person twice.
+$h^0$ is the counterfactual baseline, while the interaction term represents effects that cannot be allocated independently, such as nutritional impairment increasing the fatality risk from infection; the @who2024 identifies the heightened vulnerability of undernourished children to disease and death. Counting a malnutrition death and an infection death from separate models would assign the same person twice.
 
 For a short interval $\Delta t$, expected deaths are
 
@@ -194,7 +194,7 @@ The simulation horizon must extend for years. A physical shock can precede peak 
 
 Simple arithmetic gives the scale of the threshold. At a reference population of 8.2 billion, 1 billion deaths require an average excess rate of about 3.34 deaths per 10,000 people per day if the whole population is exposed for 365 days. If 4 billion people form the exposed population, the required average is about 6.85 per 10,000 per day. If 2 billion are exposed, half must die within the window.
 
-The Integrated Food Security Phase Classification (2026) uses a crude non-trauma death-rate threshold of at least 2 per 10,000 per day as one of several requirements for classifying an area in famine, alongside severe food-consumption and child-malnutrition conditions. Sustained for a year across 8.2 billion people, that rate corresponds arithmetically to about 599 million deaths before accounting for changing populations or competing risks. The comparison indicates scale only, since IPC classification is local, evidentiary, and multidimensional and does not define a global mortality function.
+The @ipc2021 uses a crude non-trauma death-rate threshold of at least 2 per 10,000 per day as one of several requirements for classifying an area in famine, alongside severe food-consumption and child-malnutrition conditions. Sustained for a year across 8.2 billion people, that rate corresponds arithmetically to about 599 million deaths before accounting for changing populations or competing risks. The comparison indicates scale only, since IPC classification is local, evidentiary, and multidimensional and does not define a global mortality function.
 
 ## Cascade diagnostics
 
@@ -238,7 +238,7 @@ No historical event validates a billion-death climate cascade end to end. Valida
 
 If the true crossing probability is small, ordinary Monte Carlo is wasteful. A set of 1 million runs with no crossing does not prove impossibility; it supplies only a bound conditional on the sampling distribution and model. Direct sampling can also miss narrow combinations that dominate the tail.
 
-Subset simulation replaces one rare event with a sequence of less rare conditional events (Au and Beck, 2001). Define intermediate thresholds $0<d_1<\cdots<d_m=10^9$ for $D^*$, or use a composite stress score before mortality becomes informative. Then
+Subset simulation replaces one rare event with a sequence of less rare conditional events [@au2001]. Define intermediate thresholds $0<d_1<\cdots<d_m=10^9$ for $D^*$, or use a composite stress score before mortality becomes informative. Then
 
 $$
 \Pr(D^*>10^9)=
@@ -257,7 +257,7 @@ The first scientific output may be a non-reachability result over validated para
 
 A climate-triggered cascade is not automatically climate-attributable. Governance failures, war, financial crises, and policy choices may dominate a path. Attribution requires paired worlds.
 
-For each set of non-climate initial conditions and random seeds, run a factual climate ensemble $F$ containing estimated anthropogenic forcing and a counterfactual ensemble $C$ without that forcing. The National Academies (2016) describe this factual-counterfactual logic for extreme-event attribution. Extending it through an impact network is demanding because every downstream behavioral branch can diverge.
+For each set of non-climate initial conditions and random seeds, run a factual climate ensemble $F$ containing estimated anthropogenic forcing and a counterfactual ensemble $C$ without that forcing. The National Academies [-@nasem2016] describe this factual-counterfactual logic for extreme-event attribution. Extending it through an impact network is demanding because every downstream behavioral branch can diverge.
 
 Two target quantities are
 
@@ -279,7 +279,7 @@ The probability difference and attributable expectation answer different questio
 
 Identical non-climate seeds improve pairing, but the counterfactual is not observed. Ocean states, adaptation histories, land use, and development may themselves reflect past climate. Several counterfactual constructions are needed. Attribution should be reported across them, with separate physical, impact-model, parameter, and sampling uncertainty.
 
-Policy experiments belong inside both worlds. Coordinated stock release, open trade, cash support, emergency nutrition, grid islanding, water treatment, vaccination, protected relief corridors, and debt facilities change distinct edges. Kuhla, Puma, and Otto (2024) show that cooperation altered the realized wheat shock relative to modeled counterfactuals. A useful catastrophe model should identify interventions that break common cut sets and should expose interventions that protect one region by exporting risk.
+Policy experiments belong inside both worlds. Coordinated stock release, open trade, cash support, emergency nutrition, grid islanding, water treatment, vaccination, protected relief corridors, and debt facilities change distinct edges. @kuhla2024 show that cooperation altered the realized wheat shock relative to modeled counterfactuals. A useful catastrophe model should identify interventions that break common cut sets and should expose interventions that protect one region by exporting risk.
 
 ## Interpreting results
 
@@ -292,41 +292,3 @@ The model should be refused as evidence if mortality is obtained by summing over
 Stated precisely, the question is whether calibrated climate hazards can push a buffered, adaptive, politically responsive world into a region of state space where cross-layer failures outrun repair and produce 1 billion unique excess deaths in some 365-day window. Current evidence does not answer it, and a model built to answer it must be able to return a negative result.
 
 ## References
-
-Arnscheidt, J., Beard, S. J., Hobson, T., et al. (2025). Systemic contributions to global catastrophic risk. *Global Sustainability*, 8, e19. [doi:10.1017/sus.2025.20](https://doi.org/10.1017/sus.2025.20)
-
-Au, S.-K., and Beck, J. L. (2001). Estimation of small failure probabilities in high dimensions by subset simulation. *Probabilistic Engineering Mechanics*, 16(4), 263-277. [doi:10.1016/S0266-8920(01)00019-4](https://doi.org/10.1016/S0266-8920(01)00019-4)
-
-Bevacqua, E., Fischer, E. M., Sillmann, J., et al. (2026). Moderate global warming does not rule out extreme global climate outcomes. *Nature*, 651, 946-953. [doi:10.1038/s41586-026-10237-9](https://doi.org/10.1038/s41586-026-10237-9)
-
-Boccaletti, S., Bianconi, G., Criado, R., et al. (2014). The structure and dynamics of multilayer networks. *Physics Reports*, 544(1), 1-122. [doi:10.1016/j.physrep.2014.07.001](https://doi.org/10.1016/j.physrep.2014.07.001)
-
-Buldyrev, S. V., Parshani, R., Paul, G., Stanley, H. E., and Havlin, S. (2010). Catastrophic cascade of failures in interdependent networks. *Nature*, 464, 1025-1028. [doi:10.1038/nature08932](https://doi.org/10.1038/nature08932)
-
-Cline, E. H. (2021). *1177 B.C.: The Year Civilization Collapsed*, revised and updated edition. Princeton, NJ: Princeton University Press.
-
-Gaupp, F., Hall, J., Hochrainer-Stigler, S., and Dadson, S. (2020). Changing risks of simultaneous global breadbasket failure. *Nature Climate Change*, 10, 54-57. [doi:10.1038/s41558-019-0600-z](https://doi.org/10.1038/s41558-019-0600-z)
-
-Hultgren, A., Carleton, T., Delgado, M., et al. (2025). Impacts of climate change on global agriculture accounting for adaptation. *Nature*, 642, 644-652. [doi:10.1038/s41586-025-09085-w](https://doi.org/10.1038/s41586-025-09085-w)
-
-Integrated Food Security Phase Classification. (2026). *IPC Technical Manual Version 3.1*. Rome: IPC Global Support Unit. [IPC manual](https://www.ipcinfo.org/ipc/technical/manual-en/en/)
-
-Intergovernmental Panel on Climate Change. (2022). *Climate Change 2022: Impacts, Adaptation and Vulnerability*. Cambridge: Cambridge University Press. [doi:10.1017/9781009325844](https://doi.org/10.1017/9781009325844)
-
-Kemp, L., Xu, C., Depledge, J., et al. (2022). Climate Endgame: Exploring catastrophic climate change scenarios. *Proceedings of the National Academy of Sciences*, 119(34), e2108146119. [doi:10.1073/pnas.2108146119](https://doi.org/10.1073/pnas.2108146119)
-
-Kornhuber, K., Lesk, C., Schleussner, C.-F., Jägermeyr, J., Pfleiderer, P., and Horton, R. M. (2023). Risks of synchronized low yields are underestimated in climate and crop model projections. *Nature Communications*, 14, 3528. [doi:10.1038/s41467-023-38906-7](https://doi.org/10.1038/s41467-023-38906-7)
-
-Kuhla, K., Puma, M. J., and Otto, C. (2024). International cooperation was key to stabilize wheat prices after the Russian invasion of Ukraine. *Communications Earth & Environment*, 5, 481. [doi:10.1038/s43247-024-01638-7](https://doi.org/10.1038/s43247-024-01638-7)
-
-Linkov, M., Galaitsi, S., Trump, B. D., Pinigina, E., Rand, W., Cline, E. H., and Kitsak, M. (2024). Are civilizations destined to collapse? Lessons from the Mediterranean Bronze Age. *Global Environmental Change*, 84, 102792. [doi:10.1016/j.gloenvcha.2023.102792](https://doi.org/10.1016/j.gloenvcha.2023.102792)
-
-National Academies of Sciences, Engineering, and Medicine. (2016). *Attribution of Extreme Weather Events in the Context of Climate Change*. Washington, DC: National Academies Press. [doi:10.17226/21852](https://doi.org/10.17226/21852)
-
-Puma, M. J., Bose, S., Chon, S. Y., and Cook, B. I. (2015). Assessing the evolving fragility of the global food system. *Environmental Research Letters*, 10(2), 024007. [doi:10.1088/1748-9326/10/2/024007](https://doi.org/10.1088/1748-9326/10/2/024007)
-
-United Nations, Department of Economic and Social Affairs, Population Division. (2024). *World Population Prospects 2024: Summary of Results*. New York: United Nations. [UN data](https://www.un.org/development/desa/pd/world-population-prospects-2024)
-
-World Health Organization. (2023). Malnutrition. *WHO Fact Sheet*. [WHO](https://www.who.int/news-room/fact-sheets/detail/malnutrition/)
-
-Xia, L., Robock, A., Scherrer, K., et al. (2022). Global food insecurity and famine from reduced crop, marine fishery and livestock production due to climate disruption from nuclear war soot injection. *Nature Food*, 3, 586-596. [doi:10.1038/s43016-022-00573-0](https://doi.org/10.1038/s43016-022-00573-0)

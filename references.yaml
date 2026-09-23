@@ -1,0 +1,431 @@
+# CSL references with stable IDs; cite with Pandoc [@id] syntax.
+# Migrated from the legacy inline bibliography. Entries with a DOI were resolved through doi.org
+# content negotiation (CSL-JSON) and checked for year and title; others were matched in Crossref
+# or entered by hand. Provenance per entry is in sources.md.
+references:
+- id: arnscheidt2025
+  type: article-journal
+  title: Systemic contributions to global catastrophic risk
+  author:
+  - given: Constantin W.
+    family: Arnscheidt
+  - given: S. J.
+    family: Beard
+  - given: Tom
+    family: Hobson
+  - given: Paul
+    family: Ingram
+  - given: Luke
+    family: Kemp
+  - given: Lara
+    family: Mani
+  - given: Alexandru
+    family: Marcoci
+  - given: Kennedy
+    family: Mbeva
+  - given: Seán S.
+    family: Ó hÉigeartaigh
+  - given: Anders
+    family: Sandberg
+  - given: Lalitha S.
+    family: Sundaram
+  - given: Nico
+    family: Wunderling
+  container-title: Global Sustainability
+  volume: '8'
+  DOI: 10.1017/sus.2025.20
+  URL: http://dx.doi.org/10.1017/sus.2025.20
+  issued:
+    date-parts:
+    - - 2025
+  page: e19
+- id: au2001
+  type: article-journal
+  title: Estimation of small failure probabilities in high dimensions by subset simulation
+  author:
+  - given: Siu-Kui
+    family: Au
+  - given: James L.
+    family: Beck
+  container-title: Probabilistic Engineering Mechanics
+  volume: '16'
+  issue: '4'
+  page: 263-277
+  DOI: 10.1016/s0266-8920(01)00019-4
+  issued:
+    date-parts:
+    - - 2001
+- id: bevacqua2026
+  type: article-journal
+  title: Moderate global warming does not rule out extreme global climate outcomes
+  author:
+  - given: Emanuele
+    family: Bevacqua
+  - given: Erich
+    family: Fischer
+  - given: Jana
+    family: Sillmann
+  - given: Jakob
+    family: Zscheischler
+  container-title: Nature
+  volume: '651'
+  issue: '8107'
+  page: 946-953
+  DOI: 10.1038/s41586-026-10237-9
+  URL: http://dx.doi.org/10.1038/s41586-026-10237-9
+  issued:
+    date-parts:
+    - - 2026
+- id: boccaletti2014
+  type: article-journal
+  title: The structure and dynamics of multilayer networks
+  author:
+  - given: S.
+    family: Boccaletti
+  - given: G.
+    family: Bianconi
+  - given: R.
+    family: Criado
+  - given: C.I.
+    family: del Genio
+  - given: J.
+    family: Gómez-Gardeñes
+  - given: M.
+    family: Romance
+  - given: I.
+    family: Sendiña-Nadal
+  - given: Z.
+    family: Wang
+  - given: M.
+    family: Zanin
+  container-title: Physics Reports
+  volume: '544'
+  issue: '1'
+  page: 1-122
+  DOI: 10.1016/j.physrep.2014.07.001
+  URL: http://dx.doi.org/10.1016/j.physrep.2014.07.001
+  issued:
+    date-parts:
+    - - 2014
+- id: buldyrev2010
+  type: article-journal
+  title: Catastrophic cascade of failures in interdependent networks
+  author:
+  - given: Sergey V.
+    family: Buldyrev
+  - given: Roni
+    family: Parshani
+  - given: Gerald
+    family: Paul
+  - given: H. Eugene
+    family: Stanley
+  - given: Shlomo
+    family: Havlin
+  container-title: Nature
+  volume: '464'
+  issue: '7291'
+  page: 1025-1028
+  DOI: 10.1038/nature08932
+  URL: http://dx.doi.org/10.1038/nature08932
+  issued:
+    date-parts:
+    - - 2010
+- id: cline2021
+  type: book
+  title: '1177 B.C.: The Year Civilization Collapsed'
+  edition: Revised and updated
+  author:
+  - family: Cline
+    given: Eric H.
+  publisher: Princeton University Press
+  publisher-place: Princeton, NJ
+  DOI: 10.1515/9780691208022
+  issued:
+    date-parts:
+    - - 2021
+- id: gaupp2020
+  type: article-journal
+  title: Changing risks of simultaneous global breadbasket failure
+  author:
+  - given: Franziska
+    family: Gaupp
+  - given: Jim
+    family: Hall
+  - given: Stefan
+    family: Hochrainer-Stigler
+  - given: Simon
+    family: Dadson
+  container-title: Nature Climate Change
+  volume: '10'
+  issue: '1'
+  page: 54-57
+  DOI: 10.1038/s41558-019-0600-z
+  URL: http://dx.doi.org/10.1038/s41558-019-0600-z
+  issued:
+    date-parts:
+    - - 2020
+- id: hultgren2025
+  type: article-journal
+  title: Impacts of climate change on global agriculture accounting for adaptation
+  author:
+  - given: Andrew
+    family: Hultgren
+  - given: Tamma
+    family: Carleton
+  - given: Michael
+    family: Delgado
+  - given: Diana R.
+    family: Gergel
+  - given: Michael
+    family: Greenstone
+  - given: Trevor
+    family: Houser
+  - given: Solomon
+    family: Hsiang
+  - given: Amir
+    family: Jina
+  - given: Robert E.
+    family: Kopp
+  - given: Steven B.
+    family: Malevich
+  - given: Kelly E.
+    family: McCusker
+  - given: Terin
+    family: Mayer
+  - given: Ishan
+    family: Nath
+  - given: James
+    family: Rising
+  - given: Ashwin
+    family: Rode
+  - given: Jiacan
+    family: Yuan
+  container-title: Nature
+  volume: '642'
+  issue: '8068'
+  page: 644-652
+  DOI: 10.1038/s41586-025-09085-w
+  URL: http://dx.doi.org/10.1038/s41586-025-09085-w
+  issued:
+    date-parts:
+    - - 2025
+- id: ipc2021
+  type: report
+  title: 'IPC Technical Manual Version 3.1: Evidence and Standards for Better Food Security and Nutrition
+    Decisions'
+  author:
+  - literal: Integrated Food Security Phase Classification
+  publisher: IPC Global Support Unit
+  publisher-place: Rome
+  URL: https://www.ipcinfo.org/ipcinfo-website/resources/ipc-manual/en/
+  issued:
+    date-parts:
+    - - 2021
+- id: ipcc2022
+  type: book
+  title: 'Climate Change 2022: Impacts, Adaptation and Vulnerability'
+  author:
+  - literal: Intergovernmental Panel on Climate Change
+  publisher: Cambridge University Press
+  DOI: 10.1017/9781009325844
+  URL: http://dx.doi.org/10.1017/9781009325844
+  issued:
+    date-parts:
+    - - 2022
+  publisher-place: Cambridge
+- id: kemp2022
+  type: article-journal
+  title: 'Climate Endgame: Exploring catastrophic climate change scenarios'
+  author:
+  - given: Luke
+    family: Kemp
+  - given: Chi
+    family: Xu
+  - given: Joanna
+    family: Depledge
+  - given: Kristie L.
+    family: Ebi
+  - given: Goodwin
+    family: Gibbins
+  - given: Timothy A.
+    family: Kohler
+  - given: Johan
+    family: Rockström
+  - given: Marten
+    family: Scheffer
+  - given: Hans Joachim
+    family: Schellnhuber
+  - given: Will
+    family: Steffen
+  - given: Timothy M.
+    family: Lenton
+  container-title: Proceedings of the National Academy of Sciences
+  volume: '119'
+  issue: '34'
+  DOI: 10.1073/pnas.2108146119
+  URL: http://dx.doi.org/10.1073/pnas.2108146119
+  issued:
+    date-parts:
+    - - 2022
+  page: e2108146119
+- id: kornhuber2023
+  type: article-journal
+  title: Risks of synchronized low yields are underestimated in climate and crop model projections
+  author:
+  - given: Kai
+    family: Kornhuber
+  - given: Corey
+    family: Lesk
+  - given: Carl F.
+    family: Schleussner
+  - given: Jonas
+    family: Jägermeyr
+  - given: Peter
+    family: Pfleiderer
+  - given: Radley M.
+    family: Horton
+  container-title: Nature Communications
+  volume: '14'
+  issue: '1'
+  DOI: 10.1038/s41467-023-38906-7
+  URL: http://dx.doi.org/10.1038/s41467-023-38906-7
+  issued:
+    date-parts:
+    - - 2023
+  page: '3528'
+- id: kuhla2024
+  type: article-journal
+  title: International cooperation was key to stabilize wheat prices after the Russian invasion of Ukraine
+  author:
+  - given: Kilian
+    family: Kuhla
+  - given: Michael J.
+    family: Puma
+  - given: Christian
+    family: Otto
+  container-title: Communications Earth & Environment
+  volume: '5'
+  issue: '1'
+  DOI: 10.1038/s43247-024-01638-7
+  URL: http://dx.doi.org/10.1038/s43247-024-01638-7
+  issued:
+    date-parts:
+    - - 2024
+  page: '481'
+- id: linkov2024
+  type: article-journal
+  title: Are civilizations destined to collapse? Lessons from the Mediterranean Bronze Age
+  author:
+  - given: Igor
+    family: Linkov
+  - given: S.E.
+    family: Galaitsi
+  - given: Benjamin D.
+    family: Trump
+  - given: Elizaveta
+    family: Pinigina
+  - given: Krista
+    family: Rand
+  - given: Eric H.
+    family: Cline
+  - given: Maksim
+    family: Kitsak
+  container-title: Global Environmental Change
+  volume: '84'
+  page: '102792'
+  DOI: 10.1016/j.gloenvcha.2023.102792
+  URL: http://dx.doi.org/10.1016/j.gloenvcha.2023.102792
+  issued:
+    date-parts:
+    - - 2024
+- id: nasem2016
+  type: book
+  title: Attribution of Extreme Weather Events in the Context of Climate Change
+  author:
+  - literal: National Academies of Sciences, Engineering, and Medicine
+  publisher: National Academies Press
+  DOI: 10.17226/21852
+  URL: http://dx.doi.org/10.17226/21852
+  issued:
+    date-parts:
+    - - 2016
+  publisher-place: Washington, DC
+- id: puma2015
+  type: article-journal
+  title: Assessing the evolving fragility of the global food system
+  author:
+  - given: Michael J
+    family: Puma
+  - given: Satyajit
+    family: Bose
+  - given: So Young
+    family: Chon
+  - given: Benjamin I
+    family: Cook
+  container-title: Environmental Research Letters
+  volume: '10'
+  issue: '2'
+  page: '024007'
+  DOI: 10.1088/1748-9326/10/2/024007
+  URL: http://dx.doi.org/10.1088/1748-9326/10/2/024007
+  issued:
+    date-parts:
+    - - 2015
+- id: undesa2024
+  type: report
+  title: 'World Population Prospects 2024: Summary of Results'
+  author:
+  - literal: United Nations, Department of Economic and Social Affairs, Population Division
+  publisher: United Nations
+  publisher-place: New York
+  URL: https://www.un.org/development/desa/pd/world-population-prospects-2024
+  issued:
+    date-parts:
+    - - 2024
+- id: who2024
+  type: webpage
+  title: Malnutrition
+  genre: Fact sheet
+  author:
+  - literal: World Health Organization
+  container-title: World Health Organization
+  URL: https://www.who.int/news-room/fact-sheets/detail/malnutrition
+  issued:
+    date-parts:
+    - - 2024
+      - 3
+      - 1
+- id: xia2022
+  type: article-journal
+  title: Global food insecurity and famine from reduced crop, marine fishery and livestock production
+    due to climate disruption from nuclear war soot injection
+  author:
+  - given: Lili
+    family: Xia
+  - given: Alan
+    family: Robock
+  - given: Kim
+    family: Scherrer
+  - given: Cheryl S.
+    family: Harrison
+  - given: Benjamin Leon
+    family: Bodirsky
+  - given: Isabelle
+    family: Weindl
+  - given: Jonas
+    family: Jägermeyr
+  - given: Charles G.
+    family: Bardeen
+  - given: Owen B.
+    family: Toon
+  - given: Ryan
+    family: Heneghan
+  container-title: Nature Food
+  volume: '3'
+  issue: '8'
+  page: 586-596
+  DOI: 10.1038/s43016-022-00573-0
+  URL: http://dx.doi.org/10.1038/s43016-022-00573-0
+  issued:
+    date-parts:
+    - - 2022

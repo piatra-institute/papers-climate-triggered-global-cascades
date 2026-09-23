@@ -1,0 +1,210 @@
+[
+ {
+  "id": "arnscheidt2025",
+  "families": [
+   "Arnscheidt",
+   "Beard",
+   "Hobson"
+  ],
+  "authors_text": "Arnscheidt, J., Beard, S. J., Hobson, T., et al.",
+  "year": "2025",
+  "status": "VERIFIED-DOI"
+ },
+ {
+  "id": "au2001",
+  "families": [
+   "Au",
+   "Beck"
+  ],
+  "authors_text": "Au, S.-K., and Beck, J. L.",
+  "year": "2001",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "bevacqua2026",
+  "families": [
+   "Bevacqua",
+   "Fischer",
+   "Sillmann"
+  ],
+  "authors_text": "Bevacqua, E., Fischer, E. M., Sillmann, J., et al.",
+  "year": "2026",
+  "status": "VERIFIED-DOI"
+ },
+ {
+  "id": "boccaletti2014",
+  "families": [
+   "Boccaletti",
+   "Bianconi",
+   "Criado"
+  ],
+  "authors_text": "Boccaletti, S., Bianconi, G., Criado, R., et al.",
+  "year": "2014",
+  "status": "VERIFIED-DOI"
+ },
+ {
+  "id": "buldyrev2010",
+  "families": [
+   "Buldyrev",
+   "Parshani",
+   "Paul",
+   "Stanley",
+   "Havlin"
+  ],
+  "authors_text": "Buldyrev, S. V., Parshani, R., Paul, G., Stanley, H. E., and Havlin, S.",
+  "year": "2010",
+  "status": "VERIFIED-DOI"
+ },
+ {
+  "id": "cline2021",
+  "families": [
+   "Cline"
+  ],
+  "authors_text": "Cline, E. H.",
+  "year": "2021",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "gaupp2020",
+  "families": [
+   "Gaupp",
+   "Hall",
+   "Hochrainer-Stigler",
+   "Dadson"
+  ],
+  "authors_text": "Gaupp, F., Hall, J., Hochrainer-Stigler, S., and Dadson, S.",
+  "year": "2020",
+  "status": "VERIFIED-DOI"
+ },
+ {
+  "id": "hultgren2025",
+  "families": [
+   "Hultgren",
+   "Carleton",
+   "Delgado"
+  ],
+  "authors_text": "Hultgren, A., Carleton, T., Delgado, M., et al.",
+  "year": "2025",
+  "status": "VERIFIED-DOI"
+ },
+ {
+  "id": "ipc2021",
+  "families": [
+   "Integrated Food Security Phase Classification."
+  ],
+  "authors_text": "Integrated Food Security Phase Classification.",
+  "year": "2026",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "ipcc2022",
+  "families": [
+   "Intergovernmental Panel on Climate Change."
+  ],
+  "authors_text": "Intergovernmental Panel on Climate Change.",
+  "year": "2022",
+  "status": "VERIFIED-DOI AUTHORS-DIFFER legacy=Intergovernmental Panel on Climate Change. record=Intergovernmental Panel on Climate Change (IPCC)"
+ },
+ {
+  "id": "kemp2022",
+  "families": [
+   "Kemp",
+   "Xu",
+   "Depledge"
+  ],
+  "authors_text": "Kemp, L., Xu, C., Depledge, J., et al.",
+  "year": "2022",
+  "status": "VERIFIED-DOI"
+ },
+ {
+  "id": "kornhuber2023",
+  "families": [
+   "Kornhuber",
+   "Lesk",
+   "Schleussner",
+   "Jägermeyr",
+   "Pfleiderer",
+   "Horton"
+  ],
+  "authors_text": "Kornhuber, K., Lesk, C., Schleussner, C.-F., Jägermeyr, J., Pfleiderer, P., and Horton, R. M.",
+  "year": "2023",
+  "status": "VERIFIED-DOI"
+ },
+ {
+  "id": "kuhla2024",
+  "families": [
+   "Kuhla",
+   "Puma",
+   "Otto"
+  ],
+  "authors_text": "Kuhla, K., Puma, M. J., and Otto, C.",
+  "year": "2024",
+  "status": "VERIFIED-DOI"
+ },
+ {
+  "id": "linkov2024",
+  "families": [
+   "Linkov",
+   "Galaitsi",
+   "Trump",
+   "Pinigina",
+   "Rand",
+   "Cline",
+   "Kitsak"
+  ],
+  "authors_text": "Linkov, M., Galaitsi, S., Trump, B. D., Pinigina, E., Rand, W., Cline, E. H., and Kitsak, M.",
+  "year": "2024",
+  "status": "VERIFIED-DOI"
+ },
+ {
+  "id": "nasem2016",
+  "families": [
+   "Engineering"
+  ],
+  "authors_text": "National Academies of Sciences, Engineering, and Medicine.",
+  "year": "2016",
+  "status": "VERIFIED-DOI"
+ },
+ {
+  "id": "puma2015",
+  "families": [
+   "Puma",
+   "Bose",
+   "Chon",
+   "Cook"
+  ],
+  "authors_text": "Puma, M. J., Bose, S., Chon, S. Y., and Cook, B. I.",
+  "year": "2015",
+  "status": "VERIFIED-DOI"
+ },
+ {
+  "id": "undesa2024",
+  "families": [
+   "United Nations",
+   "Social Affairs"
+  ],
+  "authors_text": "United Nations, Department of Economic and Social Affairs, Population Division.",
+  "year": "2024",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "who2024",
+  "families": [
+   "World Health Organization."
+  ],
+  "authors_text": "World Health Organization.",
+  "year": "2023",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "xia2022",
+  "families": [
+   "Xia",
+   "Robock",
+   "Scherrer"
+  ],
+  "authors_text": "Xia, L., Robock, A., Scherrer, K., et al.",
+  "year": "2022",
+  "status": "VERIFIED-DOI"
+ }
+]

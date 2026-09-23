@@ -1,5 +1,16 @@
 # Audit
 
+## 2026-09-23 — structured-evidence migration
+
+Structured-evidence migration (references and claims).
+- references.yaml: 19 CSL entries. 16 with DOIs resolved through doi.org content negotiation (14 from legacy DOIs, au2001 matched in Crossref, cline2021 assigned the Princeton University Press DOI of the revised edition by hand); ipc2021, undesa2024 and who2024 entered by hand from their URLs. Organisation ids renamed (intergovernmental2022 -> ipcc2022, engineering2016 -> nasem2016, united2024 -> undesa2024, integrated2026 -> ipc2021, world2023 -> who2024). The narrative "The National Academies (2016)" became "The National Academies [-@nasem2016]"; "@kuhla2024:" written "@{kuhla2024}:" so the colon is not read as part of the key.
+- Correction: IPC Technical Manual Version 3.1 dated 2026 -> 2021 (issued 2021; confirmed by the reference list of a 2026 Food Policy article). Rendered citation now "(2021)".
+- Correction: WHO malnutrition fact sheet dated 2023 -> 2024 (the page carries 1 March 2024). Rendered citation now "(2024)".
+- Correction: first-author initials from DOI records, Arnscheidt J. -> Constantin W.; Linkov M. -> Igor (sources.md updated).
+- claims.yaml: 28 claims (15 source, 6 interpretation, 3 definition, 2 assumption, 2 normative). No simulation; the threshold arithmetic (12.2%, 3.34 and 6.85 per 10,000 per day, 599 million) is bound as interpretation with the calculation in the rationale.
+- Source statements not bound: IPC famine threshold of 2 deaths per 10,000 per day (ipcinfo.org refused automated access); Cline (2021) on the Late Bronze Age causes (book); Boccaletti et al. (2014) and Au and Beck (2001) (no abstract retrieved); NASEM (2016) factual-counterfactual attribution logic (no abstract).
+- metadata claims_target: claim-ledger.
+
 ## 2026-09-22 — prose revision
 
 Prose revised against the house standards. Headings made descriptive (Introduction, Constraints from existing models, The Late Bronze Age analogy, Model state and time steps, Buffers and recovery, Food, trade, and export restrictions, Government, conflict, and displacement, Mortality accounting, Cascade diagnostics, Calibration and validation, Rare-event sampling, Attribution to anthropogenic forcing, Interpreting results). Abstract rewritten (negate-pivot and "this paper" removed; threshold scale of 12.2% and 3.34 per 10,000 per day added from the body). Aphoristic sentences rewritten as declaratives ("Calling that route constructible...", "The numbers cannot be transferred", "Hence the hybrid form", "the model has learned something useful", "must remain capable of saying no").

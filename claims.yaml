@@ -1,0 +1,223 @@
+schema: 1
+coverage: reviewed
+reviewed_manuscript_sha256: 87b9f355920af4fd17c6f012d6550f2d79ffa7772023d5ce6abb632fb7c7d480
+claims:
+- id: un-8-2
+  kind: source
+  passage: The United Nations estimated a world population of 8.2 billion in 2024 [@undesa2024].
+  evidence:
+    citation_id: undesa2024
+    locator: Key messages of the Summary of Results, message 1
+    verified: true
+    verification_note: 'UN DESA key-messages PDF for World Population Prospects 2024: Summary of Results (key_messages_wpp_2024_20240709.pdf)
+      states the world population was 8.2 billion in 2024.'
+- id: arnscheidt-10pct
+  kind: source
+  passage: It is close to the 10% mortality anchor used in one recent framework for global catastrophic risk [@arnscheidt2025].
+  evidence:
+    citation_id: arnscheidt2025
+    locator: Section 1, Introduction
+    verified: true
+    verification_note: 'Open-access full text of DOI 10.1017/sus.2025.20: global catastrophic risk is defined as
+      the risk of the death of 10% or more of the current human population.'
+- id: kemp-agenda
+  kind: source
+  passage: '@kemp2022 argue that catastrophic climate scenarios remain underexplored and call for research on mass
+    mortality, systemic vulnerability, and social fragility.'
+  evidence:
+    citation_id: kemp2022
+    locator: Abstract
+    verified: true
+    verification_note: 'Crossref abstract of DOI 10.1073/pnas.2108146119: catastrophic climate outcomes are a dangerously
+      underexplored topic; the paper sets a research agenda including mechanisms of mass mortality and societal
+      vulnerability to climate-triggered risk cascades.'
+- id: ipcc-cascading
+  kind: source
+  passage: The IPCC assesses complex compound and cascading risks with high confidence and describes transmission
+    through food, trade, finance, and ecosystems [@ipcc2022].
+  evidence:
+    citation_id: ipcc2022
+    locator: Summary for Policymakers, B.5 and B.5.3
+    verified: true
+    verification_note: 'AR6 WGII SPM PDF retrieved from ipcc.ch: B.5 (high confidence) on compounding risks cascading
+      across sectors and regions; B.5.3 (high confidence) on transboundary impacts through supply chains, markets
+      and natural resource flows across water, energy and food.'
+- id: gaupp-breadbasket
+  kind: source
+  passage: '@gaupp2020 estimate changing risks of simultaneous failure across major breadbaskets.'
+  evidence:
+    citation_id: gaupp2020
+    locator: Abstract
+    verified: true
+    verification_note: 'Abstract on the Nature article page for DOI 10.1038/s41558-019-0600-z: quantifies the changing
+      risk of simultaneous low production across breadbaskets; increasing risk for wheat, maize and soybean.'
+- id: kornhuber-underestimate
+  kind: source
+  passage: '@kornhuber2023 find that climate and crop-model ensembles can underestimate synchronized low yields
+    associated with large-scale atmospheric circulation.'
+  evidence:
+    citation_id: kornhuber2023
+    locator: Abstract
+    verified: true
+    verification_note: 'Crossref abstract of DOI 10.1038/s41467-023-38906-7: increased likelihood of concurrent
+      low yields under meandering jets; surface anomalies and crop responses mostly underestimated in bias-adjusted
+      simulations.'
+- id: hultgren-numbers
+  kind: source
+  passage: '@hultgren2025 estimate climate effects across 12,658 regions and six staple crops while accounting for
+    observed adaptation, with an aggregate response corresponding to an annual loss of about $5.5\times10^{14}$
+    kilocalories for each degree of warming, which the authors express as around 120 kilocalories per person per
+    day at the global scale.'
+  evidence:
+    citation_id: hultgren2025
+    locator: Abstract
+    verified: true
+    verification_note: 'OpenAlex abstract of DOI 10.1038/s41586-025-09085-w: six staple crops, 12,658 regions, observed
+      adaptation; global production declines 5.5 x 10^14 kcal annually per 1 C GMST rise, 120 kcal per person per
+      day.'
+- id: bevacqua-2c
+  kind: source
+  passage: '@bevacqua2026 show that some modeled extreme outcomes at $2\,^{\circ}\mathrm{C}$ exceed multimodel-average
+    outcomes at $4\,^{\circ}\mathrm{C}$ for selected metrics, including a breadbasket-drought measure.'
+  evidence:
+    citation_id: bevacqua2026
+    locator: Abstract
+    verified: true
+    verification_note: 'Crossref abstract of DOI 10.1038/s41586-026-10237-9: for breadbasket droughts and other
+      sectors, impact-drivers at 2 C may be more extreme than model-averaged projections at 3 C or 4 C.'
+- id: puma-network
+  kind: source
+  passage: '@puma2015 document evolving concentration and dependency in the international food-trade network.'
+  evidence:
+    citation_id: puma2015
+    locator: Abstract
+    verified: true
+    verification_note: 'OpenAlex abstract of DOI 10.1088/1748-9326/10/2/024007: wheat and rice trade connections
+      doubled 1992-2009, increased connectivity and import dependence of least developed countries.'
+- id: kuhla-2022
+  kind: source
+  passage: '@kuhla2024 combine a wheat supply network with a market model to reconstruct the 2022 shock following
+    Russia''s invasion of Ukraine.'
+  evidence:
+    citation_id: kuhla2024
+    locator: Abstract
+    verified: true
+    verification_note: 'Crossref abstract of DOI 10.1038/s43247-024-01638-7: supply-network analysis combined with
+      a price model for trade year 2022 after the invasion of Ukraine.'
+- id: kuhla-cooperation
+  kind: source
+  passage: They also show that favorable harvests and international cooperation reduced the realized price shock.
+  evidence:
+    citation_id: kuhla2024
+    locator: Abstract
+    verified: true
+    verification_note: 'Crossref abstract of DOI 10.1038/s43247-024-01638-7: international cooperation and removal
+      of export restrictions may have mitigated the 2022 price hike by 13 percentage points; worst case with escalating
+      restrictions raises prices by 90%. The role of favourable harvests is from the article body and was not checked.'
+- id: xia-deaths
+  kind: source
+  passage: Under their specified scenarios and behavioral assumptions, estimated deaths exceed 2 billion for one
+    regional-war case and 5 billion for a United States-Russia war.
+  evidence:
+    citation_id: xia2022
+    locator: Abstract
+    verified: true
+    verification_note: 'Crossref abstract of DOI 10.1038/s43016-022-00573-0: more than 2 billion could die from
+      an India-Pakistan war and more than 5 billion from a United States-Russia war.'
+- id: buldyrev-cascade
+  kind: source
+  passage: '@buldyrev2010 show that dependencies between networks can create recursive and abrupt failure absent
+    from isolated-network analysis.'
+  evidence:
+    citation_id: buldyrev2010
+    locator: Abstract
+    verified: true
+    verification_note: 'PubMed abstract (PMID 20393559) of DOI 10.1038/nature08932: failure in one network causes
+      failure of dependent nodes recursively; removal of a small fraction can fragment interdependent networks.'
+- id: linkov-paired
+  kind: source
+  passage: In their model, isolated disruption of a single node does not reproduce system collapse, while some paired
+    disruptions generate cascades.
+  evidence:
+    citation_id: linkov2024
+    locator: Abstract
+    verified: true
+    verification_note: 'OpenAlex abstract of DOI 10.1016/j.gloenvcha.2023.102792: any single node''s collapse was
+      insufficient for regional collapse; some paired node disruptions cause cascading failure.'
+- id: who-vulnerable
+  kind: source
+  passage: $h^0$ is the counterfactual baseline, while the interaction term represents effects that cannot be allocated
+    independently, such as nutritional impairment increasing the fatality risk from infection; the @who2024 identifies
+    the heightened vulnerability of undernourished children to disease and death.
+  evidence:
+    citation_id: who2024
+    locator: Fact sheet, section Undernutrition
+    verified: true
+    verification_note: 'WHO fact sheet Malnutrition (1 March 2024) retrieved from who.int: undernutrition makes
+      children in particular much more vulnerable to disease and death.'
+- id: threshold-share
+  kind: interpretation
+  passage: Against that reference population, the threshold is about 12.2%.
+  rationale: 'Arithmetic: 1 billion / 8.2 billion = 0.1220, i.e. 12.2%. No data file; derived from the cited population
+    figure.'
+- id: rate-full
+  kind: interpretation
+  passage: At a reference population of 8.2 billion, 1 billion deaths require an average excess rate of about 3.34
+    deaths per 10,000 people per day if the whole population is exposed for 365 days.
+  rationale: 'Arithmetic: 1e9 / (8.2e9 x 365) x 10,000 = 3.341 per 10,000 per day; with 4e9 exposed, 1e9 / (4e9
+    x 365) x 10,000 = 6.849, reported 6.85; 1e9 of 2e9 is one half.'
+- id: ipc-equivalent
+  kind: interpretation
+  passage: Sustained for a year across 8.2 billion people, that rate corresponds arithmetically to about 599 million
+    deaths before accounting for changing populations or competing risks.
+  rationale: 'Arithmetic: 2 / 10,000 x 8.2e9 x 365 = 5.986e8, reported as about 599 million; the IPC threshold itself
+    is not bound because the manual could not be retrieved (ipcinfo.org returns 403).'
+- id: abs-threshold
+  kind: interpretation
+  passage: A state-dependent cascade matrix measures amplification between layer-region failures, and minimal cut
+    sets identify the combinations capable of crossing the threshold, which corresponds to 12.2% of the 2024 world
+    population, or about 3.34 excess deaths per 10,000 people per day sustained for a year.
+  rationale: Abstract restatement of the two arithmetic results above (12.2% and 3.34 per 10,000 per day).
+- id: def-outcome
+  kind: definition
+  passage: The target statistic is
+  rationale: 'Defines the estimand D*: the maximum rolling 365-day sum of unique excess deaths.'
+- id: def-cascade-matrix
+  kind: definition
+  passage: is a local amplification diagnostic.
+  rationale: Defines the spectral radius of the state-dependent cascade matrix as a local, not global, diagnostic.
+- id: def-cutset
+  kind: definition
+  passage: A cut set is a smallest combination of exogenous shocks, buffer states, and responses whose joint occurrence
+    drives $D^*$ above the threshold.
+  rationale: Defines minimal cut sets as the tail diagnostic.
+- id: assume-competing
+  kind: assumption
+  passage: Cause attribution can be assigned from competing hazards conditional on death.
+  rationale: Modelling assumption that makes each death count once; summing sectoral estimates would double-count.
+- id: assume-paired
+  kind: assumption
+  passage: For each set of non-climate initial conditions and random seeds, run a factual climate ensemble $F$ containing
+    estimated anthropogenic forcing and a counterfactual ensemble $C$ without that forcing.
+  rationale: 'Attribution design: paired factual and counterfactual ensembles sharing non-climate seeds.'
+- id: interp-no-probability
+  kind: interpretation
+  passage: No published climate model assigns a defensible probability to that event.
+  rationale: Negative claim about the literature, supported by the review of existing model classes in the next
+    section; not a sourced statement.
+- id: interp-xia-transfer
+  kind: interpretation
+  passage: Greenhouse warming is slower, spatially different, and governed by different physics, so the mortality
+    estimates do not transfer.
+  rationale: Limits the transfer of the nuclear-winter result to climate risk.
+- id: norm-refuse
+  kind: normative
+  passage: The model should be refused as evidence if mortality is obtained by summing overlapping sectoral estimates,
+    if export bans or state failures are imposed whenever needed to cross the threshold, if only collapse cases
+    enter calibration, or if a single unvalidated module controls the tail.
+  rationale: States the rejection criteria the paper proposes for any implementation.
+- id: norm-negative
+  kind: normative
+  passage: Current evidence does not answer it, and a model built to answer it must be able to return a negative
+    result.
+  rationale: Closing methodological requirement.
